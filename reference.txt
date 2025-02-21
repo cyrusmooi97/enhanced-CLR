@@ -1,0 +1,1 @@
+https://github.com/brianmanderson/Cyclical_Learning_Rate
